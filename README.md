@@ -1,3 +1,7 @@
+<style>
+  background-color: red;
+</style>
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
