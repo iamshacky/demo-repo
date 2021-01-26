@@ -13,3 +13,7 @@ function fancyAlert(arg) {
 First Header | Second Header
 ------------ | -------------
 stuff 1 | stuff 2
+
+first header | second header
+--|--
+stuff 1 | stuff 2
