@@ -30,6 +30,6 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [ ] alrighty then
 - [ ] something else
 
-- [ ] Finish my changes
+- [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
