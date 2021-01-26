@@ -5,3 +5,5 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 # heading
 ## heading
 ###### heading require "https://github.com/iamshacky/demo-repo/blob/main/README.md#heading-2"
+
+[Contribution guidelines for this project](docs/index.html)
