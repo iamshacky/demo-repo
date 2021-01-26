@@ -1,9 +1,4 @@
-<style>
-  background-color: red;
-</style>
+This site was built using [GitHub Pages](https://pages.github.com/).
+Alrighty then! [Jim Carrey](https://www.thewrap.com/wp-content/uploads/2021/01/Jim-Carrey-4.jpg).
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+
