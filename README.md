@@ -27,3 +27,5 @@ This site was built using [GitHub Pages](https://pages.github.com/).
             1. a
             2. b
             3. c
+- [] alrighty then
+- [] something else
