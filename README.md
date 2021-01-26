@@ -29,3 +29,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
             3. c
 - [ ] alrighty then
 - [ ] something else
+
+- [ ] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
